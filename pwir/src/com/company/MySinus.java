@@ -1,4 +1,4 @@
-package pwir;
+package com.company;
 
 /**
  * Created by Ja on 24.01.2016.
