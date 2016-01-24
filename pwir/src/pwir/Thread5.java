@@ -1,6 +1,6 @@
 package pwir;
 
-public class Thread5 extends Thread implements Runnable{
+public class Thread5 extends Thread {
 
 	// METODA MONE CARLO
 	

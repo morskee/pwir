@@ -1,6 +1,6 @@
 package pwir;
 
-public class Thread3 extends Thread implements Runnable{
+public class Thread3 extends Thread {
 
 	// METODA SIMPSONA
 	

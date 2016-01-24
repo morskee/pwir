@@ -1,6 +1,6 @@
 package pwir;
 
-public class Thread2 extends Thread implements Runnable{
+public class Thread2 extends Thread {
 
 	// METODA TRAPEZÓW
 	

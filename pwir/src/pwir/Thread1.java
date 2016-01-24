@@ -1,6 +1,6 @@
 package pwir;
 
-public class Thread1 extends Thread implements Runnable{
+public class Thread1 extends Thread {
 	
 	// METODA PROSTOKĄTÓW
 	
